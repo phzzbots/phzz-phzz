@@ -4,21 +4,25 @@
 
 Desde os 6 anos sou envolvido com tecnologia. Já trabalhei com edição de vídeo usando After Effects e Premiere Pro, e hoje foco em programação.
 
-🚀 Tecnologias
-- JavaScript
-- Node.js
-- HTML
-- CSS
+## 🚀 Tecnologias
 
-📚 Atualmente aprendendo
-- TypeScript
-- APIs
-- WebSocket
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,nodejs" />
+</p>
 
-🤖 Projetos
-- Bots de Discord
-- APIs
+## 🎬 Edição de Vídeo
 
-📬 Contato
-[![Discord](https://img.shields.io/badge/Discord-Perfil-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/298693781178417154)
-- Instagram: https://instagram.com/phzzpjl
+<p>
+  <img src="https://skillicons.dev/icons?i=ae,pr" />
+</p>
+
+## 📬 Contato
+
+<p>
+  <a href="https://discord.com/users/298693781178417154">
+    <img src="https://skillicons.dev/icons?i=discord" />
+  </a>
+  <a href="https://instagram.com/phzzpjl">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>
+</p>
