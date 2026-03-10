@@ -7,7 +7,7 @@ Desde os 6 anos sou envolvido com tecnologia. Já trabalhei com edição de víd
 ## 🚀 Tecnologias
 
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,nodejs" />
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,nodejs,git,github,vscode" />
 </p>
 
 ## 🎬 Edição de Vídeo
@@ -15,6 +15,23 @@ Desde os 6 anos sou envolvido com tecnologia. Já trabalhei com edição de víd
 <p>
   <img src="https://skillicons.dev/icons?i=ae,pr" />
 </p>
+
+## 📚 Atualmente estudando
+
+- TypeScript
+- APIs REST
+- WebSocket
+- Backend com Node.js
+
+## 🔧 Atualmente trabalhando em
+
+- 🤖 Bots para Discord  
+- 🌐 APIs e sistemas backend  
+- 🧠 Aprendendo mais sobre arquitetura de projetos  
+
+## 🎯 Objetivo
+
+Entrar em uma faculdade na área de tecnologia e evoluir cada vez mais como desenvolvedor.
 
 ## 📬 Contato
 
